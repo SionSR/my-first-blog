@@ -25,7 +25,7 @@ SECRET_KEY = '-bg*(yfhlv(=@^yx%&e%w)zmpj%#pj#5npf53&yi9=pcg*o2wn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sionsr.pythonanywhere.com']
 
 
 # Application definition
